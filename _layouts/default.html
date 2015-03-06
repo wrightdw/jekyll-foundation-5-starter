@@ -52,9 +52,7 @@
         <![endif]-->
 
             <header id="header" class="row">
-
                 <div class="small-12 columns">
-                    <h1><a href="{{ site.url }}">{{ site.brand }}</a></h1>
 
                     <section class="right show-for-medium-up mam">
                         <ul class="inline-list">
@@ -70,6 +68,9 @@
                             </li>
                         </ul>
                     </section>
+
+                    <h2><a href="{{ site.url }}">{{ site.brand }}</a></h2>
+
 
                 </div>
             </header>
@@ -101,12 +102,12 @@
                         {% include nav.html %}
                     </ul>
                     <p class="quiet copyright right">
-                        <a href="https://twitter.com/{{ site.twitter }}">
+                        <a target="_blank" href="https://twitter.com/{{ site.twitter }}">
                             <i class="fa fa-twitter">
-                </i> @{{ site.twitter }}</a>,
-                        <a href="https://github.com/{{ site.github }}/">
+                </i> @{{ site.twitter }}</a>&nbsp;
+                        <a target="_blank" href="https://github.com/{{ site.github }}/">
                             <i class="fa fa-github">
-                </i> @{{ site.github }}</a> {{ site.year }}.</p>
+                </i> @{{ site.github }}</a> {{ site.year }}</p>
                 </div>
             </footer>
 

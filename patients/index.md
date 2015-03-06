@@ -7,7 +7,7 @@ keywords: pancreatic cancer, patient information
 ##Patient Information
 
 ###What is the pancreas?
-The pancreas is a leaf shaped organ in your body which can be found between the stomach and backbone. (picture of abdomen).  It produces substances which help aid digestion. One of these is a mixture of enzymes known as pancreatic juice which helps to break down the food you have eaten in order to provide the energy that your body needs to function in day to day life. The other main substance is a hormone known as insulin.  Insulin is produced to help maintain a relatively constant level of sugar in your blood.  
+The pancreas is a leaf-shaped organ in your body which can be found between the stomach and backbone. It produces substances which help aid digestion. One of these is a mixture of enzymes known as pancreatic juice which helps to break down the food you have eaten in order to provide the energy that your body needs to function in day to day life. The other main substance is a hormone known as insulin.  Insulin is produced to help maintain a relatively constant level of sugar in your blood.  
 
 There are three main parts of the pancreas picture of pancreas:
 
@@ -15,20 +15,13 @@ There are three main parts of the pancreas picture of pancreas:
 + the body which is the middle section of the pancreas
 + the tail which is the thinnest part at the end of the pancreas  
 
-###This section explains what pancreatic cancer is and how it may affect you.  
-
-Sub-headings/links:
-What is the pancreas?
-What is pancreatic cancer? (subheadings: type of pancreatic cancer, risk factors)
-Support organisations
-
 ###What is the pancreas?
 The pancreas is a leaf shaped organ in your body which can be found between the stomach and backbone. (picture of abdomen).  It produces substances which help aid digestion. One of these is a mixture of enzymes known as pancreatic juice which helps to break down the food you have eaten in order to provide the energy that your body needs to function in day to day life. The other main substance is a hormone known as insulin.  Insulin is produced to help maintain a relatively constant level of sugar in your blood.  
 
 There are three main parts of the pancreas picture of pancreas:
 
 + the head which is the widest part of the organ nearest to the small intestine
-+the body which is the middle section of the pancreas
++ the body which is the middle section of the pancreas
 + the tail which is the thinnest part at the end of the pancreas  
 
 ###What is pancreatic cancer?

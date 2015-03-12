@@ -19,7 +19,7 @@ PRECISION-Panc is a new initiative, launching in 2015, which aims to accelerate
         </p>
 	</div>
     <aside class="large-4 columns">
-		    <a href="http://www.pancreas2016.org" target="_blank"><img align="right" src="images/pancreas2016.jpg"></a>
+		    <a href="http://www.pancreas2016.org" target="_blank"><img align="right" src="/images/pancreas2016.jpg"></a>
     </aside>
 </div>
 

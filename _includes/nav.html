@@ -1,12 +1,11 @@
-<li>
-    <a href="{{ site.url }}">Home</a>
-</li>
-<li>
-    <a href="/history/">Our History</a>
-</li>
-<li>
-    <a href="/patients/">Patients</a>
-</li>
-<li>
-    <a href="/research/">Research</a>
-</li>
+{% assign url = page.url|remove:'index.html' %}
+{% for link in site.navigation %}
+  {% assign current = nil %}
+  {% if url == link.url %}
+    {% assign current = 'active' %}
+  {% endif %}
+
+  <li class="{{ current }}">
+    <a href="{{ link.url }}">{{ link.text }}</a>
+  </li>
+{% endfor %}

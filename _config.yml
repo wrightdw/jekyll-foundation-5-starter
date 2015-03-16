@@ -12,4 +12,12 @@ year : 2015
 markdown : kramdown
 collections:
   - team
-  
+navigation:
+- text: Home
+  url: /
+- text: Our History
+  url: /history/
+- text: Patients
+  url: /patients/
+- text: Research
+  url: /research/

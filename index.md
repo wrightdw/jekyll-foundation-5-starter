@@ -8,7 +8,7 @@ keywords: pancreatic cancer
 <div class="row">
 	<div class="large-8 columns">
 
-        <h2 class="mvl">PRECISION-Panc</h2>
+        <h2 class="mvl">{{ site.brand }}</h2>
 
 		<p class="mbm">
         Pancreatic cancer is currently the 4th leading cause of cancer death in Western societies, and is predicted to be the 2nd leading cause within a decade. There has been little improvement in patient outcomes over the last half century.

@@ -1,6 +1,6 @@
 ---
 name: Jennifer Morton
-image: morton.jpg
+image: morton.png
 job: Associate Scientist and Joint Leader of The Pancreatic Cancer Research Team, Cancer Research UK Beatson Institute, Glasgow
 ---
 Dr Jennifer Morton‘s key research aims are:

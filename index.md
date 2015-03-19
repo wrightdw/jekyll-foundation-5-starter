@@ -15,7 +15,7 @@ keywords: pancreatic cancer
         </p>
 
 		<p class="mbl">
-PRECISION-Panc is a new initiative, launching in 2015, which aims to accelerate scientific discovery. We will identify new treatment options for the 8,000 or so people diagnosed with pancreatic cancer in the UK each year.          
+<em>PRECISION-Panc</em> is a new initiative, launching in 2015, which aims to accelerate scientific discovery. We will identify new treatment options for the 8,000 or so people diagnosed with pancreatic cancer in the UK each year.          
         </p>
 	</div>
     <aside class="large-4 columns">

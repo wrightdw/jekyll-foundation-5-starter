@@ -1,0 +1,6 @@
+---
+name: Simon Barry
+image: barry.png
+job: Associate Director, Oncology Innovative Medicines & Early Development, AstraZeneca
+---
+Simon Barry is Associate Director in Oncology Innovative Medicines & Early Development at AstraZeneca. He has worked in Oncology at AstraZeneca for around 10 years, on both small molecule and antibody projects. He works collaboratively across AstraZeneca and MedImmune, AstraZeneca's biologics company. He was the Global Lead for the Vascular Modulation Research Area and latterly, the Stromal Biology Area. In this capacity, he has worked on complex cell assays to deliver a portfolio of small molecule and antibody projects, targeting vasculature and stromal targets, as well as disease positioning for stromal targets and mechanisms influencing the sensitivity to VEGF signalling antagonists. He led the *in vivo* model and pharmacodynamic assay group, focused on developing disease positioning hypotheses for agents' target tumours and mechanisms of tumour–stroma crosstalk.

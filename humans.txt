@@ -1,10 +1,19 @@
-/* TEAM */
-  Developer: Daigo Fujiwara
-  Site: daigo.org
-  Twitter: @daigofuji
-  Github: @daigofuji
-  Location: Boston, MA
+# humanstxt.org/
+# The humans responsible & technology colophon
 
-/* SITE */
-  Standards: HTML5, MD, SCSS/CSS3, JS 
-  Components: Zurb Foundation, Jykill, jQuery, Modernizr, bower, grunt
+# TEAM
+
+    Derek Wright -- Bioinformatician -- Twitter: @dreich -- GitHub: @wrightdw -- Location: Glasgow, Scotland
+    Sancha Martin - Project Manager
+    Andrew Biankin -- Project Leader
+    Daigo Fujiwara -- Developer of starter theme  --  Twitter: @daigofuji -- Github: @daigofuji -- Site: http://daigofuji.github.io/jekyll-foundation-5-starter/
+
+# THANKS
+
+    Cancer Research UK
+
+# TECHNOLOGY COLOPHON
+
+    Standards: HTML5, MD, SCSS/CSS3, JS 
+    Components: Zurb Foundation, Jekyll, jQuery, Modernizr, bower, grunt, HTML5 Boilerplate
+    Tools: Brackets, Gimp, FileZilla

@@ -21,4 +21,4 @@ navigation:
   url: /patients/
 - text: Research
   url: /research/
-exclude: [node_modules, _team/15-hollingsworth.md, _team/16-barry.md, Gemfile, Gemfile.lock, Gruntfile.js, package.json, LICENSE, README.md]
+exclude: [node_modules, _team/15-hollingsworth.md, _team/16-barry.md, Gemfile, Gemfile.lock, Gruntfile.js, package.json, LICENSE, README.md, scss]

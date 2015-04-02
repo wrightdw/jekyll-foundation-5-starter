@@ -1,6 +1,6 @@
 # www.robotstxt.org/
 
-# Allow crawling of all content
+# Disallow crawling of Our History
 User-agent: *
-Disallow: 
+Disallow: /history/
 Sitemap: http://www.precisionpanc.org/sitemap.xml

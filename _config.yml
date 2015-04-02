@@ -15,8 +15,8 @@ collections:
 navigation:
 - text: Home
   url: /
-- text: Our History
-  url: /history/
+#- text: Our History
+#  url: /history/
 - text: Patients
   url: /patients/
 - text: Research

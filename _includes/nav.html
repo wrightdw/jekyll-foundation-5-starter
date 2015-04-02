@@ -1,11 +1,11 @@
 {% assign url = page.url|remove:'index.html' %}
 {% for link in site.navigation %}
-  {% assign current = nil %}
-  {% if url == link.url %}
-    {% assign current = 'active' %}
-  {% endif %}
+      {% assign current = nil %}
+      {% if url == link.url %}
+        {% assign current = 'active' %}
+      {% endif %}
 
-  <li class="{{ current }}">
-    <a href="{{ link.url }}">{{ link.text }}</a>
-  </li>
+      <li class="{{ current }}">
+        <a href="{{ link.url }}">{{ link.text }}</a>
+      </li>
 {% endfor %}

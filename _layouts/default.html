@@ -90,10 +90,12 @@
                     <ul class="inline-list">
                         {% include nav.html %}
                     </ul>
-                    <p class="quiet copyright right">
-                        <a target="_blank" href="https://twitter.com/{{ site.twitter }}">
-                            <i class="fa fa-twitter">
-                </i> @{{ site.twitter }}</a></p>
+                    <ul class="inline-list quiet copyright right">
+                        <li><a target="_blank" href="https://twitter.com/{{ site.twitter }}">
+                            <i class="fa fa-twitter"></i> @{{ site.twitter }}</a></li>
+                        <li><a target="_blank" href="mailto:{{ site.email }}">
+                            <i class="fa fa-envelope"></i> {{ site.email }}</a></li>
+                    </ul>
                 </div>
             </footer>
 
